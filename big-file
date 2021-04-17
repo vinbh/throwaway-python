@@ -1,0 +1,8 @@
+client_ip,host,path,status_code
+1.1.1.1,dunzo.com,/abc,200
+1.1.1.1,dunzo.com,/abc,401
+1.1.1.1,dunzo.in,/def,403
+1.1.1.1,dunzo.com,/def,400
+1.1.1.1,dunzo.com,/abc,200
+1.1.1.1,dunzo.com,/abc,200
+1.1.1.1,dunzo.com,/abc,500
