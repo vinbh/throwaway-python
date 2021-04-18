@@ -1,4 +1,8 @@
 #!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8
+####################################################
+## Given a file, find the occourence of a words
+## in a list. did this using RE
+####################################################
 import re
 
 list = ["write", "line"]

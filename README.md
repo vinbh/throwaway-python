@@ -1,2 +1,2 @@
 # hello-world
-This is my first repo on git-hub
+Dont watse your time here, just some throwaway python code here.
