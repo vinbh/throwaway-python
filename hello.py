@@ -5,6 +5,7 @@
 ####################################################
 import re
 
+
 list = ["write", "line"]
 #email_re = re.compile(r"([a-zA-Z\d\.-]+)@([a-z\d-]+)\.([a-zA-Z]{2,8})(/.[a-z]{2,8})?")
 list_re = re.compile(r"write | line")
